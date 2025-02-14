@@ -3,6 +3,11 @@
 This is a simple BMI (Body Mass Index) calculator web application. Users can input their height (in centimeters) and weight (in kilograms), and the application will calculate and display their BMI.
 Additionally, a BMI weight guide is provided to help users interpret their BMI results.
 
+<img src="https://github.com/user-attachments/assets/9f42185b-328f-4588-a62c-7373dbcc9d23" width="400px" />
+
+---
+
+
 # BMI Weight Guide 📋
 
 The BMI weight guide provides information on different BMI ranges and their corresponding weight categories:
